@@ -1,13 +1,18 @@
 # Jatin Dessai — Portfolio
 
-Static portfolio inspired by the supplied Yash Dharne reference.
+A responsive personal portfolio inspired by the supplied Yash Dharne reference, adapted for Jatin Dessai.
 
-## Edit before publishing
-In `index.html`, replace:
-- `YOUR_EMAIL@example.com`
-- `YOUR_USERNAME` in the GitHub URL
-- `YOUR_USERNAME` in the LinkedIn URL
-- Any text you want to personalize.
+## Included
+- About
+- Skills
+- VIA 24 Character Strengths
+- Selected projects
+- Learning journey
+- Contact
+
+## Contact
+Email: jatindessai07@gmail.com
+GitHub: https://github.com/jatindessai07
 
 ## GitHub Pages
-Create a repository named `<your-github-username>.github.io`, upload these files to the root, then enable Pages from Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
+The site is intended to be published from the `/docs` folder. Keep `index.html`, `style.css`, and `script.js` directly inside `/docs`.
